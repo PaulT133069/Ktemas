@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "KtemasToken": "0xc7b1690b4821812c224b93720f8ccb3505f0ce41",
+    "KtemasTreasury": "0x3c6996514a7296f74a4031f36ce6960dbf701ec1",
+    "KtemasVault": "0xaf82f9bae4bf76b40201370619fec2f8f1a84077",
+    "KtemasGovernment": "0x20857f35acb43488772594d93d61c2f9b1440327"
+  }
+}
